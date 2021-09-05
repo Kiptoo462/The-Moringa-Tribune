@@ -1,5 +1,5 @@
 # The-Moringa-Tribune
-####  This is a Flask application.  September 5,2021
+####  This is a Django application.  September 5,2021
 #### By **Kiptoo Victor**
 
 ## Description
